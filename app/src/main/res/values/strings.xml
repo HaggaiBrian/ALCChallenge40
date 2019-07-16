@@ -12,4 +12,9 @@
     <string name="Email">Email: haggzo@gmail.com</string>
     <string name="Country">Country: Uganda</string>
 
+    <!-- Home -->
+    <string name="AboutALC">About ALC</string>
+    <string name="MyProfile">My Profile</string>
+    <string name="Welcome">Welcome to ALC 4.0</string>
+
 </resources>
