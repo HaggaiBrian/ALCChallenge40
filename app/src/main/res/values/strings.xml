@@ -1,5 +1,15 @@
 <resources>
+    <!-- Activity Titles and Names -->
     <string name="app_name">ALC 4 Phase 1</string>
     <string name="title_activity_about_us_web_view">About ALC</string>
     <string name="title_activity_profile">My Profile</string>
+
+    <!-- Profile -->
+    <string name="Track">Track: Android</string>
+    <string name="Name">Odio Haggai Brian Enon</string>
+    <string name="SlackName">Slack Username: @Haggai Brian</string>
+    <string name="PhoneNumber">Phone Number: 256706658499</string>
+    <string name="Email">Email: haggzo@gmail.com</string>
+    <string name="Country">Country: Uganda</string>
+
 </resources>
